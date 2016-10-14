@@ -1,0 +1,14 @@
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\bin\Debug\OCW_Downloader.exe.config
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\bin\Debug\OCW_Downloader.exe
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\bin\Debug\OCW_Downloader.pdb
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\bin\Debug\OCW_Downloader.xml
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\obj\Debug\WindowsApplication1.Form1.resources
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\obj\Debug\WindowsApplication1.Resources.resources
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\obj\Debug\WindowsApplication1.SplashScreen1.resources
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\obj\Debug\OCW_Downloader.vbproj.GenerateResource.Cache
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\obj\Debug\OCW_Downloader.exe
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\obj\Debug\OCW_Downloader.xml
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\obj\Debug\OCW_Downloader.pdb
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\obj\Debug\WindowsApplication1.Form2.resources
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\obj\Debug\WindowsApplication1.Form3.resources
+E:\Dropbox\墨雨設計\OCW Downloader\OCW_Downloader\OCW_Downloader\obj\Debug\WindowsApplication1.Form4.resources
